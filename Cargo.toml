@@ -1,0 +1,20 @@
+[package]
+name = "emeta"
+version = "0.1.0"
+edition = "2021"
+authors = ["RSUU <rsuuyu@gmail.com>"]
+description = "meta"
+readme = "README.md"
+homepage = "https://crates.io/crates/emeta"
+repository = "https://github.com/rsuu/emeta"
+license = "MIT OR Apache-2.0"
+#keywords = []
+#categories = []
+#autobenches = true
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+miniserde = "0.1.24"
+speedy = "0.8.2"
