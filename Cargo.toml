@@ -1,0 +1,24 @@
+[package]
+name = "emeta"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.72"
+async-lock = "2.7.0"
+dirs-next = "2.0.0"
+env_logger = "0.10.0"
+esyn = "0.5.1"
+futures-lite = "1.13.0"
+#inquire = "0.6.2"
+log = "0.4.19"
+nanoserde = "0.1.33"
+pico-args = "0.5.0"
+rusqlite = "0.29.0"
+strum = { version = "0.25.0", features = ["derive"] }
+tabled = { version = "0.14.0", features = ["color"] }
+tempfile = "3.7.0"
+time = "0.3.23"
+ureq = "2.7.1"

@@ -1,0 +1,84 @@
+{
+  "code": 0,
+  "message": "0",
+  "ttl": 1,
+  "data": {
+    "list": {
+      "tlist": {
+        "3": { "tid": 3, "count": 1, "name": "音乐" },
+        "4": { "tid": 4, "count": 1, "name": "游戏" }
+      },
+      "vlist": [
+        {
+          "comment": 22059,
+          "typeid": 31,
+          "play": 1337418,
+          "pic": "http://i0.hdslb.com/bfs/archive/c392288c19bbdf3762919774bce01c76dc346344.jpg",
+          "subtitle": "",
+          "description": "没有听过这首歌的话会是人参的一大遗憾呢..(望天",
+          "copyright": "2",
+          "title": "【天哥版】最春哥",
+          "review": 0,
+          "author": "bishi",
+          "mid": 1,
+          "created": 1247496094,
+          "length": "01:38",
+          "video_review": 3270,
+          "aid": 55,
+          "bvid": "BV1xx411c7Ug",
+          "hide_click": false,
+          "is_pay": 0,
+          "is_union_video": 0,
+          "is_steins_gate": 0,
+          "is_live_playback": 0,
+          "meta": null,
+          "is_avoided": 0,
+          "attribute": 0,
+          "is_charging_arc": false,
+          "vt": 0,
+          "enable_vt": 0,
+          "vt_display": ""
+        },
+        {
+          "comment": 15276,
+          "typeid": 17,
+          "play": 1597517,
+          "pic": "http://i1.hdslb.com/bfs/archive/ef521697c031bd2b0aab5c8aab3abe1ea0ca63b9.jpg",
+          "subtitle": "",
+          "description": "CRUCIS FATAL FAKE : Fate Stay Night的同人格斗游戏. MV制作 : yaomenghua 天下格斗之同人堂",
+          "copyright": "2",
+          "title": "【FATE相关】CRUCIS FATAL FAKE MV 《Faker》",
+          "review": 0,
+          "author": "bishi",
+          "mid": 1,
+          "created": 1247073333,
+          "length": "09:43",
+          "video_review": 6902,
+          "aid": 16,
+          "bvid": "BV1xx411c7mi",
+          "hide_click": false,
+          "is_pay": 0,
+          "is_union_video": 0,
+          "is_steins_gate": 0,
+          "is_live_playback": 0,
+          "meta": null,
+          "is_avoided": 0,
+          "attribute": 0,
+          "is_charging_arc": false,
+          "vt": 0,
+          "enable_vt": 0,
+          "vt_display": ""
+        }
+      ],
+      "slist": []
+    },
+    "page": { "pn": 1, "ps": 30, "count": 2 },
+    "episodic_button": {
+      "text": "播放全部",
+      "uri": "//www.bilibili.com/medialist/play/1?from=space"
+    },
+    "is_risk": false,
+    "gaia_res_type": 0,
+    "gaia_data": null
+  }
+}

@@ -1,0 +1,26 @@
+query ($search: String, $type: MediaType) {
+  Page(page: 1, perPage: 30) {
+    media(search: $search, type: $type) {
+      id
+      title {
+        romaji
+        english
+        native
+        userPreferred
+      }
+      status
+      episodes
+      duration
+      format
+      relations {
+        edges {
+          relationType
+          node {
+            id
+            format
+          }
+        }
+      }
+    }
+  }
+}
